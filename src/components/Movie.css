@@ -1,0 +1,13 @@
+.readmore{
+    color: rgb(45, 190, 239);
+    font-weight: 1000;
+    transition: 1s;
+}
+.readmore:hover{
+    cursor: pointer;
+    color: rgb(7, 86, 113);
+}
+.card{
+    box-shadow: rgba(0,0,0,0.24) 0px 3px 8px;
+    
+}
